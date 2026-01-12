@@ -3,15 +3,11 @@
 
 **Duración estimada de estudio:** 2–3 horas  
 **Objetivo del documento:**  
-Brindar a los profesores una **base conceptual sólida** sobre qué es el *Machine Learning*, cómo funciona y para qué sirve, así como introducir **regresión lineal y regresión logística** desde una perspectiva **intuitiva, aplicada y pedagógica**.
+Brindar a los profesores una **base conceptual sólida** sobre qué es el *Machine Learning*, cómo funciona y para qué sirve, así como introducir **regresión lineal** desde una perspectiva **intuitiva, aplicada y pedagógica**.
 
 ---
 
 ## 1️⃣ ¿Qué es Machine Learning?
-
-
-::contentReference[oaicite:0]{index=0}
-
 
 El **Machine Learning (ML)** es una rama de la inteligencia artificial que permite a las computadoras **aprender patrones a partir de datos**, sin ser programadas explícitamente con reglas fijas.
 
@@ -70,10 +66,6 @@ Ejemplo:
 
 ## 4️⃣ Flujo general de un proyecto de Machine Learning
 
-
-::contentReference[oaicite:1]{index=1}
-
-
 1. Definir el problema  
 2. Recolectar datos  
 3. Preparar datos  
@@ -86,10 +78,6 @@ Ejemplo:
 ---
 
 ## 5️⃣ Regresión Lineal
-
-
-::contentReference[oaicite:2]{index=2}
-
 
 ### 🔍 ¿Qué es?
 La **regresión lineal** es un modelo que permite **predecir un valor numérico continuo** a partir de una o más variables.
@@ -121,10 +109,6 @@ No es necesario entender la fórmula matemática; basta con comprender que:
 ---
 
 ## 6️⃣ Regresión Logística
-
-
-::contentReference[oaicite:3]{index=3}
-
 
 ### 🔍 ¿Qué es?
 La **regresión logística** es un modelo de **clasificación**, usado cuando la respuesta es **una categoría**, normalmente binaria.
