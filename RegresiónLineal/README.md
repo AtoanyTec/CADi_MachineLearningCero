@@ -17,7 +17,7 @@ El repositorio incluye los siguientes recursos:
 Este documento está pensado como material de estudio previo o de apoyo teórico.
 
 ### 2️⃣ Cuaderno Jupyter (`.ipynb`)
-- 📓 Un **[Jupyter Notebook](https://github.com/AtoanyTec/CADi_MachineLearningCero/blob/main/Regresi%C3%B3nLineal/1_Regresi%C3%B3n_Lineal.ipynb)** que contiene un **ejercicio práctico** donde se implementa un modelo de **regresión lineal** sobre un **dataset de calidad de vino**.
+- 📓 Un **[Jupyter Notebook](https://colab.research.google.com/drive/1NLmc1f_7AYJMzBLrJqPKAV_VhAvQpl9i?usp=sharing)** que contiene un **ejercicio práctico** donde se implementa un modelo de **regresión lineal** sobre un **dataset de calidad de vino**.
 - En el cuaderno se muestra:
   - Carga y exploración del dataset
   - Separación de datos de entrenamiento y prueba
