@@ -7,7 +7,7 @@ Este repositorio contiene material educativo para comprender e implementar **Reg
 El repositorio incluye los siguientes recursos:
 
 ### 1️⃣ Documento teórico (PDF)
-- 📘 Un archivo **PDF** donde se explica la **teoría de la regresión lineal**, incluyendo:
+- 📘 Un archivo **[PDF](https://github.com/AtoanyTec/CADi_MachineLearningCero/blob/main/Regresi%C3%B3nLineal/Regresi%C3%B3n%20Lineal.pdf)** donde se explica la **teoría de la regresión lineal**, incluyendo:
   - Concepto de regresión lineal
   - Modelo matemático
   - Interpretación de parámetros
