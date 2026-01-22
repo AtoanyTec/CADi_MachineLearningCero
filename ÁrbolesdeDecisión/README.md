@@ -9,7 +9,7 @@ El objetivo es que el lector pueda **entender la teoría fundamental** y **aplic
 ## 📚 Contenido del repositorio
 
 ### 📄 Documento teórico
-- **Archivo:** `[ÁrbolsdeDecisión.pdf](https://github.com/AtoanyTec/CADi_MachineLearningCero/blob/main/%C3%81rbolesdeDecisi%C3%B3n/%C3%81rboles%20de%20Decisi%C3%B3n.pdf)`
+- **Archivo:** [ÁrbolsdeDecisión.pdf](https://github.com/AtoanyTec/CADi_MachineLearningCero/blob/main/%C3%81rbolesdeDecisi%C3%B3n/%C3%81rboles%20de%20Decisi%C3%B3n.pdf)
 - **Contenido:**
   - Introducción a los árboles de decisión
   - Terminología fundamental
