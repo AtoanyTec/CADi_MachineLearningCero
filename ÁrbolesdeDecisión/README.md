@@ -8,17 +8,13 @@ El objetivo es que el lector pueda **entender la teoría fundamental** y **aplic
 
 ## 📚 Contenido del repositorio
 
-### 📄 Documento teórico
+### 📄 [Documento teórico](https://github.com/AtoanyTec/CADi_MachineLearningCero/blob/main/%C3%81rbolesdeDecisi%C3%B3n/%C3%81rboles%20de%20Decisi%C3%B3n.pdf)
 - **Archivo:** `Arboles_de_Decision_Teoria.pdf`
 - **Contenido:**
   - Introducción a los árboles de decisión
   - Terminología fundamental
-  - Concepto de pureza
   - Entropía y ganancia de información
-  - Índice Gini
-  - Explicación detallada del algoritmo de clasificación
   - Ventajas y desventajas
-  - Ejemplos intuitivos
 
 👉 Este documento está diseñado para ser utilizado como **material de clase** o **lectura previa**.
 
