@@ -9,7 +9,7 @@ El objetivo es que el lector pueda **entender la teoría fundamental** y **aplic
 ## 📚 Contenido del repositorio
 
 ### 📄 [Documento teórico](https://github.com/AtoanyTec/CADi_MachineLearningCero/blob/main/%C3%81rbolesdeDecisi%C3%B3n/%C3%81rboles%20de%20Decisi%C3%B3n.pdf)
-- **Archivo:** `Arboles_de_Decision_Teoria.pdf`
+- **Archivo:** `[ÁrbolsdeDecisión.pdf](https://github.com/AtoanyTec/CADi_MachineLearningCero/blob/main/%C3%81rbolesdeDecisi%C3%B3n/%C3%81rboles%20de%20Decisi%C3%B3n.pdf)`
 - **Contenido:**
   - Introducción a los árboles de decisión
   - Terminología fundamental
@@ -21,7 +21,7 @@ El objetivo es que el lector pueda **entender la teoría fundamental** y **aplic
 ---
 
 ### 📓 Cuaderno Jupyter Notebook
-- **Archivo:** `Decision_Tree_Clasificacion.ipynb`
+- **Archivo:** `[ÁrboldeDecisión.ipynb](https://colab.research.google.com/drive/1hhcDjj5FEU9C4LDYWsD-5CySAaK2lnHo?usp=sharing)`
 - **Contenido:**
   - Carga de un dataset real
   - Análisis exploratorio de datos (EDA)
