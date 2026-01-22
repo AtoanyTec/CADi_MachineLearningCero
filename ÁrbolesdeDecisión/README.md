@@ -39,13 +39,30 @@ El objetivo es que el lector pueda **entender la teoría fundamental** y **aplic
 
 ---
 
-## 🧠 Requisitos
+### 🎓 Público objetivo
 
-Para ejecutar el cuaderno se requiere:
+Este material está dirigido a:
 
-```bash
-Python >= 3.8
-numpy
-pandas
-matplotlib
-scikit-learn
+- Estudiantes de ingeniería o ciencias
+- Docentes de Machine Learning
+- Personas que inician en IA
+- Cursos introductorios de Ciencia de Datos
+
+No se requiere conocimiento avanzado previo.
+
+### 📌 Objetivo de aprendizaje
+
+Al finalizar el estudio de este repositorio, el usuario será capaz de:
+
+✅ Explicar cómo funciona un árbol de decisión
+✅ Comprender entropía y Gini
+✅ Entrenar un modelo de clasificación
+✅ Interpretar las reglas aprendidas por el árbol
+✅ Visualizar y analizar decisiones del modelo
+
+### 📝 Licencia
+
+Este proyecto se distribuye con fines educativos y académicos.
+Puedes reutilizarlo y adaptarlo citando la fuente.
+
+🌱 Los árboles de decisión son el primer paso hacia modelos más complejos como Random Forest y Gradient Boosting.
