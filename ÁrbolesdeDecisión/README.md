@@ -21,7 +21,7 @@ El objetivo es que el lector pueda **entender la teoría fundamental** y **aplic
 ---
 
 ### 📓 Cuaderno Jupyter Notebook
-- **Archivo:** `[ÁrboldeDecisión.ipynb](https://colab.research.google.com/drive/1hhcDjj5FEU9C4LDYWsD-5CySAaK2lnHo?usp=sharing)`
+- **Archivo:** [ÁrboldeDecisión.ipynb](https://colab.research.google.com/drive/1hhcDjj5FEU9C4LDYWsD-5CySAaK2lnHo?usp=sharing)
 - **Contenido:**
   - Carga de un dataset real
   - Análisis exploratorio de datos (EDA)
