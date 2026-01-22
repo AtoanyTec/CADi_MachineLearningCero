@@ -54,11 +54,11 @@ No se requiere conocimiento avanzado previo.
 
 Al finalizar el estudio de este repositorio, el usuario será capaz de:
 
-✅ Explicar cómo funciona un árbol de decisión
-✅ Comprender entropía y Gini
-✅ Entrenar un modelo de clasificación
-✅ Interpretar las reglas aprendidas por el árbol
-✅ Visualizar y analizar decisiones del modelo
+- ✅ Explicar cómo funciona un árbol de decisión
+- ✅ Comprender entropía y Gini
+- ✅ Entrenar un modelo de clasificación
+- ✅ Interpretar las reglas aprendidas por el árbol
+- ✅ Visualizar y analizar decisiones del modelo
 
 ### 📝 Licencia
 
