@@ -1,4 +1,4 @@
-# 📊 K-means Clustering – Theory & Practice
+# 📊 K-means Clustering
 
 Este repositorio contiene material introductorio y didáctico sobre el algoritmo **K-means**, uno de los métodos más utilizados en *aprendizaje no supervisado* para el **agrupamiento de datos (clustering)**. El objetivo del repositorio es proporcionar una comprensión clara tanto **teórica** como **práctica** del algoritmo, con un enfoque educativo.
 
