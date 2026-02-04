@@ -8,7 +8,7 @@ Este repositorio contiene material introductorio y didáctico sobre el algoritmo
 
 El repositorio incluye los siguientes recursos:
 
-- 📄 **Documento teórico (PDF)**  
+- 📄 **Documento teórico ([PDF](https://github.com/AtoanyTec/CADi_MachineLearningCero/blob/main/K-Means/K-means.pdf))**  
   Contiene la explicación conceptual de K-means, incluyendo:
   - Introducción al clustering  
   - Descripción paso a paso del algoritmo  
