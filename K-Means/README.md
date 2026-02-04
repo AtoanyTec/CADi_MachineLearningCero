@@ -16,7 +16,7 @@ El repositorio incluye los siguientes recursos:
   - Ventajas y desventajas  
   - Consideraciones prácticas (elección de K, escalamiento, inicialización)
 
-- 📓 **Cuaderno en Google Colab (Jupyter Notebook)**  
+- 📓 **Cuaderno en Google Colab ([Jupyter Notebook](https://colab.research.google.com/drive/1kMBmS5-_8mgVwlnC1pPEQTFyMi2is9cD?usp=sharing))**  
   Incluye la implementación práctica de K-means, donde se aborda:
   - Carga y exploración de datos  
   - Preprocesamiento (escalamiento de variables)  
