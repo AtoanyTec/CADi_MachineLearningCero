@@ -9,14 +9,14 @@ El objetivo es que el lector pueda **entender los conceptos fundamentales** detr
 ## 📂 Contenido del repositorio
 
 📁 **/docs**  
-- 📄 Documento con la **teoría de Redes Neuronales Artificiales**, donde se abordan:
+- 📄 Documento con la **[teoría de Redes Neuronales Artificiales](https://github.com/AtoanyTec/CADi_MachineLearningCero/blob/main/RedesNeuronales/Redes%20Neuronales.pdf)**, donde se abordan:
   - Introducción
   - Modelo
   - Retro propagación y Optimización
   - Regularización
 
 📁 **/notebooks**  
-- 📓 **Cuaderno Jupyter Notebook** que incluye:
+- 📓 **[Cuaderno Jupyter Notebook](https://colab.research.google.com/drive/1MePtMg1m62lkAN1XwDj0HBj9b8jJNWw3?usp=sharing)** que incluye:
   - Introducción
   - Carga del Dataset
   - Pre-Procesamiento de los Datos
