@@ -70,7 +70,8 @@ Los temas abordados son:
 ## 🛠️ Herramientas utilizadas
 
 - 🐍 Python  
-- 📊 NumPy, Pandas, Matplotlib  
+- 📊 NumPy, Pandas, Matplotlib
+- 🔥 Pytorch
 - 🤖 Scikit-learn  
 - 📓 Google Colab  
 - 📄 Documentos PDF explicativos  
